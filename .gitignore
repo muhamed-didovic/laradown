@@ -3,4 +3,4 @@ node_modules/
 videos/
 *.lock
 *.log
-#test/.cache
+test/.cache

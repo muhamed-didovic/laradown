@@ -1,0 +1,855 @@
+[
+    {
+        "id": 2210,
+        "chapter": 1,
+        "type": "episode",
+        "title": "Demo and Installation",
+        "body": "<p>Let's get started by taking a look at a simple Twitter clone that we'll be building throughout the series. After that, we'll install Expo and get the default project running on your local simulators as well as any physical devices you may have.</p>",
+        "excerpt": "Let's get started by taking a look at a simple Twitter clone that we'll be building throughout...",
+        "source_code": "https://github.com/laracasts/lc-expo-test",
+        "keyConcepts": [
+            "Expo Installation",
+            "Running the Default App"
+        ],
+        "position": 1,
+        "dateSegments": {
+            "published": "October 27, 2021",
+            "publishedAlt": "Oct 27th, 2021",
+            "publishedDiff": "1 month ago",
+            "whenAvailableForHumans": "1 month"
+        },
+        "length": 441,
+        "lengthForHumans": "7:21",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2210",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": false,
+            "isFavorited": false,
+            "isCompleted": true,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/639607696.hd.mp4?s=c3144707f06c6dca32f399c98dbac3252e8cbdc2&profile_id=175"
+    },
+    {
+        "id": 2211,
+        "chapter": 1,
+        "type": "episode",
+        "title": "React Native Components Overview",
+        "body": "<p>Next up, we'll play around with some of the common components available in React Native. We take a look at <code>View</code>, <code>Text</code>, <code>Button</code>, <code>TouchableOpacity</code>, <code>Pressable</code>, <code>FlatList</code> components and get familiar with how to use them in a project.</p>",
+        "excerpt": "Next up, we'll play around with some of the common components available in React Native. We take...",
+        "source_code": "https://github.com/laracasts/lc-expo-test",
+        "keyConcepts": [
+            "Common RN Components",
+            "CSS and Styling Basics"
+        ],
+        "position": 2,
+        "dateSegments": {
+            "published": "October 27, 2021",
+            "publishedAlt": "Oct 27th, 2021",
+            "publishedDiff": "1 month ago",
+            "whenAvailableForHumans": "1 month"
+        },
+        "length": 1215,
+        "lengthForHumans": "20:15",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2211",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": false,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/639606113.hd.mp4?s=7ee6143c34be8aa90ec5011ee759601861121404&profile_id=175"
+    },
+    {
+        "id": 2212,
+        "chapter": 1,
+        "type": "episode",
+        "title": "React Navigation",
+        "body": "<p>Moving on, we take a look at the popular React Navigation library to define the screens in our mobile app. We take a look at Stack Navigators, Tab Navigators, and Drawer Navigators in the process.</p>",
+        "excerpt": "Moving on, we take a look at the popular React Navigation library to define the screens in...",
+        "source_code": "https://github.com/laracasts/lc-react-navigation",
+        "keyConcepts": [
+            "Stack Navigator",
+            "Tab Navigator",
+            "Drawer Navigator"
+        ],
+        "position": 3,
+        "dateSegments": {
+            "published": "October 28, 2021",
+            "publishedAlt": "Oct 28th, 2021",
+            "publishedDiff": "1 month ago",
+            "whenAvailableForHumans": "1 month"
+        },
+        "length": 1157,
+        "lengthForHumans": "19:17",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2212",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/639604556.hd.mp4?s=b3f784352b2f01870828daf73d2d43c74cae3777&profile_id=175"
+    },
+    {
+        "id": 2214,
+        "chapter": 2,
+        "type": "episode",
+        "title": "Setup Screens for Twitter Clone",
+        "body": "<p>Let's begin working on our Twitter clone app and start off by laying out our screens using React Navigation. Most of the functionality will be using a Stack Navigator, but we'll also make use of the Tab Navigator and Drawer Navigator as seen on the official Twitter mobile app.</p>",
+        "excerpt": "Let's begin working on our Twitter clone app and start off by laying out our screens using...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone",
+        "keyConcepts": [
+            "Screen Layout Setup"
+        ],
+        "position": 4,
+        "dateSegments": {
+            "published": "November 2, 2021",
+            "publishedAlt": "Nov 2nd, 2021",
+            "publishedDiff": "1 month ago",
+            "whenAvailableForHumans": "1 month"
+        },
+        "length": 1134,
+        "lengthForHumans": "18:54",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2214",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/641567410.hd.mp4?s=ba20c271ae0f24ae8d005c5f7057eff2a96db7ae&profile_id=175"
+    },
+    {
+        "id": 2216,
+        "chapter": 2,
+        "type": "episode",
+        "title": "Style the Home Screen",
+        "body": "<p>In this lesson, we'll practice styling in React Native by styling the Home page that contains our list of tweets. We’ll make use of the <code>TouchableOpacity</code> component as well as the Expo Vector Icons set.</p>",
+        "excerpt": "In this lesson, we'll practice styling in React Native by styling the Home page that contains our...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone",
+        "keyConcepts": [
+            "React Native Styling",
+            "Expo Vector Icons"
+        ],
+        "position": 5,
+        "dateSegments": {
+            "published": "November 5, 2021",
+            "publishedAlt": "Nov 5th, 2021",
+            "publishedDiff": "1 month ago",
+            "whenAvailableForHumans": "1 month"
+        },
+        "length": 1553,
+        "lengthForHumans": "25:53",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2216",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/641565372.hd.mp4?s=e3227238e52caa6157eb812773281858155b3624&profile_id=175"
+    },
+    {
+        "id": 2221,
+        "chapter": 2,
+        "type": "episode",
+        "title": "Style the Single Tweet Screen",
+        "body": "<p>Let's continue by styling the second screen of our app: the single tweet screen.</p>",
+        "excerpt": "Let's continue by styling the second screen of our app: the single tweet screen.",
+        "source_code": "https://github.com/laracasts/lc-expo-test?organization=laracasts&organization=laracasts",
+        "keyConcepts": [
+            "Styling in React Native"
+        ],
+        "position": 6,
+        "dateSegments": {
+            "published": "November 9, 2021",
+            "publishedAlt": "Nov 9th, 2021",
+            "publishedDiff": "1 month ago",
+            "whenAvailableForHumans": "1 month"
+        },
+        "length": 934,
+        "lengthForHumans": "15:34",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2221",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/641570266.hd.mp4?s=9742fe564c65788f2dea584f0f7ebba85546f473&profile_id=175"
+    },
+    {
+        "id": 2226,
+        "chapter": 2,
+        "type": "episode",
+        "title": "Style the Profile Screen",
+        "body": "<p>Let's continue by styling the third screen of our app: the profile screen. We'll make use of a FlatList that has a header component for the user’s profile details.</p>",
+        "excerpt": "Let's continue by styling the third screen of our app: the profile screen. We'll make use of...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone?organization=laracasts&organization=laracasts",
+        "keyConcepts": [
+            "Styling in React Native"
+        ],
+        "position": 7,
+        "dateSegments": {
+            "published": "November 15, 2021",
+            "publishedAlt": "Nov 15th, 2021",
+            "publishedDiff": "1 month ago",
+            "whenAvailableForHumans": "1 month"
+        },
+        "length": 1031,
+        "lengthForHumans": "17:11",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2226",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/641568924.hd.mp4?s=a2ce8dfb3014252e8e9ffb3ba2a2d4f6a9df58bc&profile_id=175"
+    },
+    {
+        "id": 2228,
+        "chapter": 2,
+        "type": "episode",
+        "title": "Style the New Tweet Screen",
+        "body": "",
+        "excerpt": "Next, we'll style the fourth screen of our app: the new tweet screen. We'll also build a...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone?organization=laracasts&organization=laracasts",
+        "keyConcepts": [
+            "Styling in React Native",
+            "Character Counter Component"
+        ],
+        "position": 8,
+        "dateSegments": {
+            "published": "November 17, 2021",
+            "publishedAlt": "Nov 17th, 2021",
+            "publishedDiff": "1 month ago",
+            "whenAvailableForHumans": "1 month"
+        },
+        "length": 732,
+        "lengthForHumans": "12:12",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2228",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/641571468.hd.mp4?s=4f5a3747549ce7ae487a2e77abe93b445d3bb353&profile_id=175"
+    },
+    {
+        "id": 2231,
+        "chapter": 3,
+        "type": "episode",
+        "title": "Fetch a List of Tweets From the Backend",
+        "body": "<p>Let's now begin the backend Laravel API portion of our application, and set up the Tweet model. We'll add the necessary migrations and factories to set up our fake test data. For the frontend, we'll install the popular axios library to make AJAX calls to our backend and populate the list of tweets on the main screen.</p>",
+        "excerpt": "Let's now begin the backend Laravel API portion of our application, and set up the Tweet model....",
+        "source_code": "https://github.com/laracasts/lc-laravel-twitter-clone",
+        "keyConcepts": [
+            "Laravel API",
+            "Leverage Axios"
+        ],
+        "position": 9,
+        "dateSegments": {
+            "published": "November 26, 2021",
+            "publishedAlt": "Nov 26th, 2021",
+            "publishedDiff": "3 weeks ago",
+            "whenAvailableForHumans": "3 weeks"
+        },
+        "length": 1182,
+        "lengthForHumans": "19:42",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2231",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/649983400.hd.mp4?s=e3f5b5125d59b7ea48a44d9b4f59694d206e6580&profile_id=175"
+    },
+    {
+        "id": 2234,
+        "chapter": 3,
+        "type": "episode",
+        "title": "Pull to Refresh",
+        "body": "<p>Next, we 'll implement \"Pull to Refresh,\" which is a very popular pattern in mobile apps that allows you to refresh the current screen that you are on.</p>",
+        "excerpt": "Next,we'll implement \"Pull to Refresh,\" which is a very popular pattern in mobile apps that allows...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone/commit/bcb978ca702b4f73f1a3caa59158eae58297562e",
+        "keyConcepts": null,
+        "position": 10,
+        "dateSegments": {
+            "published": "December 1, 2021",
+            "publishedAlt": "Dec 1st, 2021",
+            "publishedDiff": "2 weeks ago",
+            "whenAvailableForHumans": "2 weeks"
+        },
+        "length": 362,
+        "lengthForHumans": "6:02",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2234",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/652170999.hd.mp4?s=3d548da8b96514f54ecc19e16d7ff45dda60108b&profile_id=175"
+    },
+    {
+        "id": 2239,
+        "chapter": 3,
+        "type": "episode",
+        "title": "Infinite Scroll",
+        "body": "<p>Let's next implement infinite scrolling for our list of tweets, which allows the user to keep scrolling and receive more tweets from the server. You’ll see this pattern in many mobile apps, so we don’t have to load large amounts of data into memory at once.</p>",
+        "excerpt": "Let's next implement infinite scrolling for our list of tweets, which allows the user to keep scrolling...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone/commit/01d325f2fe4d4c8d615e039517540d3a9836fe67",
+        "keyConcepts": [
+            "Infinite Scrolling",
+            "Laravel Pagination"
+        ],
+        "position": 11,
+        "dateSegments": {
+            "published": "December 7, 2021",
+            "publishedAlt": "Dec 7th, 2021",
+            "publishedDiff": "1 week ago",
+            "whenAvailableForHumans": "1 week"
+        },
+        "length": 651,
+        "lengthForHumans": "10:51",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2239",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/652171611.hd.mp4?s=240701145eb1a68c8251abc5f4e7508e0c5c52d7&profile_id=175"
+    },
+    {
+        "id": 2240,
+        "chapter": 3,
+        "type": "episode",
+        "title": "Pull Data for Single Tweet Screen",
+        "body": "<p>In this episode, we'll make an API endpoint for pulling data for single tweets. In the frontend, we make use of this endpoint to populate the data for the single tweet screen.</p>",
+        "excerpt": "In this episode, we'll make an API endpoint for pulling data for single tweets. In the frontend,...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone/commit/574c729cf1d5a2708bd8f67601babe3edc7ce2df",
+        "keyConcepts": [
+            "Single Tweet API Endpoint",
+            "Pull Data for Single Tweet Screen"
+        ],
+        "position": 12,
+        "dateSegments": {
+            "published": "December 8, 2021",
+            "publishedAlt": "Dec 8th, 2021",
+            "publishedDiff": "1 week ago",
+            "whenAvailableForHumans": "1 week"
+        },
+        "length": 871,
+        "lengthForHumans": "14:31",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2240",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/652176771.hd.mp4?s=6d7e9a799e4a17451b77bbc7a210dd20167b2a67&profile_id=175"
+    },
+    {
+        "id": 2241,
+        "chapter": 3,
+        "type": "episode",
+        "title": "Add Tweet Endpoint",
+        "body": "<p>Let's now add an endpoint that allows users to create new tweets. We'll wire it up to the frontend and also make sure that the new tweet shows once we return back to the tweet list screen.</p>",
+        "excerpt": "Let's now add an endpoint that allows users to create new tweets. We'll wire it up to...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone/commit/08fbec8faa069047fdd6ae0a12a0cde4fbc1a9c7",
+        "keyConcepts": [
+            "Create Tweets",
+            "Refresh the Tweet List"
+        ],
+        "position": 13,
+        "dateSegments": {
+            "published": "December 9, 2021",
+            "publishedAlt": "Dec 9th, 2021",
+            "publishedDiff": "1 week ago",
+            "whenAvailableForHumans": "1 week"
+        },
+        "length": 995,
+        "lengthForHumans": "16:35",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2241",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/652180779.hd.mp4?s=1f6c711bb128acb4845a9822a71cbb6c43e4f260&profile_id=175"
+    },
+    {
+        "id": 2242,
+        "chapter": 3,
+        "type": "episode",
+        "title": "User Profile Endpoint",
+        "body": "<p>Next, we'll add an endpoint that allows us to pull user profile information. Just like the other screens, we'll wire it up to our frontend React Native application.</p>",
+        "excerpt": "Next, we'll add an endpoint that allows us to pull user profile information. Just like the other...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone/commit/5ca5990efefd9853801027ad6bfa05407786435f",
+        "keyConcepts": [
+            "User Profile API Endpoint",
+            "Pull Data for Profile Screen"
+        ],
+        "position": 14,
+        "dateSegments": {
+            "published": "December 10, 2021",
+            "publishedAlt": "Dec 10th, 2021",
+            "publishedDiff": "1 week ago",
+            "whenAvailableForHumans": "1 week"
+        },
+        "length": 911,
+        "lengthForHumans": "15:11",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2242",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/652185726.hd.mp4?s=c559e59b11c56f2f71c3e301f847011c602cba04&profile_id=175"
+    },
+    {
+        "id": 2243,
+        "chapter": 3,
+        "type": "episode",
+        "title": "User Profile Tweets Endpoint",
+        "body": "<p>Next, we'll add an endpoint that allows us to pull a particular user’s tweets. We wire it up to the user profile screen and also make a small refactor that allows us to share some presentation logic with the tweets on the Home screen.</p>",
+        "excerpt": "Next, we'll add an endpoint that allows us to pull a particular user’s tweets. We wire it...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone/commit/9d511bfbcae0ec7d5545a80a6e4395c998468fbc",
+        "keyConcepts": null,
+        "position": 15,
+        "dateSegments": {
+            "published": "December 13, 2021",
+            "publishedAlt": "Dec 13th, 2021",
+            "publishedDiff": "6 days ago",
+            "whenAvailableForHumans": "6 days"
+        },
+        "length": 1317,
+        "lengthForHumans": "21:57",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2243",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/652174728.hd.mp4?s=fb8a2c182d824ab53908adf5bbf5ade795a5e6d1&profile_id=175"
+    },
+    {
+        "id": 2244,
+        "chapter": 4,
+        "type": "episode",
+        "title": "Client Authentication Setup",
+        "body": "<p>Let's move on to the authentication portion of the application, including setting up screens and global state using React Context. We'll create the global User object that we can share across all screens, and will prepare create the initial login screen.</p>",
+        "excerpt": "Let's move on to the authentication portion of the application, including setting up screens and global state...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone/commit/6ab7b2e587b5976cce95b4c41c09be24a5b2346c",
+        "keyConcepts": [
+            "React Context for Global State",
+            "Login Screen"
+        ],
+        "position": 16,
+        "dateSegments": {
+            "published": "December 14, 2021",
+            "publishedAlt": "Dec 14th, 2021",
+            "publishedDiff": "6 days ago",
+            "whenAvailableForHumans": "6 days"
+        },
+        "length": 1477,
+        "lengthForHumans": "24:37",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2244",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/652182134.hd.mp4?s=ee737790faf62854621a018b9eacdf755b59751f&profile_id=175"
+    },
+    {
+        "id": 2245,
+        "chapter": 4,
+        "type": "episode",
+        "title": "Server Setup and Communication",
+        "body": "<p>On the server, let's make use of <code>Laravel Sanctum</code> which allows users to login with tokens. We'll wire this up to our React Native app and persist the token using Expo’s <code>SecureStore</code>. Finally, we ensure that the correct set of screens are loaded when the app is initially launched.</p>",
+        "excerpt": "On the server, let's make use of Laravel Sanctum which allows users to login with tokens. We'll...",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone/commit/c766000c502dc7415fc2e9cb552202a427b63d92",
+        "keyConcepts": [
+            "Laravel Sanctum",
+            "Persist Tokens via SecureStore"
+        ],
+        "position": 17,
+        "dateSegments": {
+            "published": "December 15, 2021",
+            "publishedAlt": "Dec 15th, 2021",
+            "publishedDiff": "5 days ago",
+            "whenAvailableForHumans": "5 days"
+        },
+        "length": 1693,
+        "lengthForHumans": "28:13",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2245",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/652187273.hd.mp4?s=85be9515b967fc9b7ba63e221e41d8e94ca1856b&profile_id=175"
+    },
+    {
+        "id": 2246,
+        "chapter": 4,
+        "type": "episode",
+        "title": "Styling the Auth Screens",
+        "body": "<p>Let's now spend some time styling our Login and Register screens for a nicer user experience.</p>",
+        "excerpt": "Let's now spend some time styling our Login and Register screens for a nicer user experience.",
+        "source_code": "https://github.com/laracasts/lc-rn-twitter-clone/commit/10b78f2276e6136c9d0119f30208b5112963393c",
+        "keyConcepts": null,
+        "position": 18,
+        "dateSegments": {
+            "published": "December 16, 2021",
+            "publishedAlt": "Dec 16th, 2021",
+            "publishedDiff": "4 days ago",
+            "whenAvailableForHumans": "4 days"
+        },
+        "length": 652,
+        "lengthForHumans": "10:52",
+        "isNew": false,
+        "isScheduled": false,
+        "path": "/episodes/2246",
+        "taxonomy": {
+            "name": "Frameworks",
+            "path": "https://laracasts.com/browse/frameworks"
+        },
+        "series": {
+            "title": "Build Mobile Apps With React Native and Expo",
+            "taxonomy": [
+                "Object"
+            ],
+            "thumbnail": "https://laracasts.nyc3.cdn.digitaloceanspaces.com/series/thumbnails/mobile-apps-with-react-native.png",
+            "path": "/series/build-mobile-apps-with-react-native-and-expo"
+        },
+        "viewingStatus": {
+            "scheduled": false,
+            "watchable": true,
+            "requiresReactivation": false,
+            "requiresBillingDetails": true,
+            "isFavorited": false,
+            "isCompleted": false,
+            "isWatchingLater": false
+        },
+        "hasTranscript": false,
+        "download": "https://player.vimeo.com/external/652185021.hd.mp4?s=991afcc6bf28058660766c8bbc47b7a1c0de09d4&profile_id=175"
+    }
+]
