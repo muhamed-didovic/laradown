@@ -21,7 +21,7 @@ Options
     --email, -e         Your email.
     --password, -p      Your password.
     --directory, -d     Directory to save.
-    --type, -t  source|course Type of download.
+
 
 Examples
     $ laradown
