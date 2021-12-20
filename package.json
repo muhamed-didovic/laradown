@@ -1,6 +1,6 @@
 {
   "name": "laradown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -21,6 +21,10 @@
     "laracasts"
   ],
   "author": "Muhamed Didovic (github.com/muhamed-didovic)",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/muhamed-didovic/laradown.git"
+    },
   "license": "MIT",
   "dependencies": {
     "axios": "^0.24.0",
