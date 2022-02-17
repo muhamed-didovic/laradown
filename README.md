@@ -21,13 +21,14 @@ Options
     --email, -e         Your email.
     --password, -p      Your password.
     --directory, -d     Directory to save.
+    --file, -f          Location of the file where are the courses
     --concurrency, -c
 
 Examples
     $ laradown
     $ laradown -a
     $ laradown https://laracasts.com/series/php-testing-jargon -t course
-    $ laradown [-e user@gmail.com] [-p password] [-d dirname] [-c number]
+    $ laradown [-e user@gmail.com] [-p password] [-d dirname] [-c number] [-f path-to-file]
 ```
 
 ## License
