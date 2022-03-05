@@ -17,7 +17,7 @@ Usage
     $ laradown [CourseUrl]
 
 Options
-    --all, -a           Get all courses.
+    --all, -a           Download everything from browse/all and search APIs.
     --email, -e         Your email.
     --password, -p      Your password.
     --directory, -d     Directory to save.
