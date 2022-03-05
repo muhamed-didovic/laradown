@@ -1,0 +1,642 @@
+[
+  {
+    "title": "10 Techniques for Cleaner Code",
+    "value": "https://laracasts.com/series/ten-techniques-for-cleaner-code"
+  },
+  {
+    "title": "Advanced Eloquent",
+    "value": "https://laracasts.com/series/advanced-eloquent"
+  },
+  {
+    "title": "Advanced Image Uploading with Vue and Laravel",
+    "value": "https://laracasts.com/series/advanced-image-uploading-with-vue-and-laravel"
+  },
+  {
+    "title": "Alpine.js Essentials",
+    "value": "https://laracasts.com/series/alpine-essentials"
+  },
+  {
+    "title": "Andre's Larabits",
+    "value": "https://laracasts.com/series/andres-larabits"
+  },
+  {
+    "title": "Andrew's Larabits",
+    "value": "https://laracasts.com/series/andrews-larabits"
+  },
+  {
+    "title": "Be Awesome in PHPStorm",
+    "value": "https://laracasts.com/series/how-to-be-awesome-in-phpstorm"
+  },
+  {
+    "title": "Beginning React",
+    "value": "https://laracasts.com/series/beginning-react"
+  },
+  {
+    "title": "Beginning TypeScript",
+    "value": "https://laracasts.com/series/beginning-typescript"
+  },
+  {
+    "title": "Billing With Laravel Cashier",
+    "value": "https://laracasts.com/series/billing-with-laravel-cashier"
+  },
+  {
+    "title": "Billing With Stripe",
+    "value": "https://laracasts.com/series/billing-with-stripe"
+  },
+  {
+    "title": "Blade Component Cookbook",
+    "value": "https://laracasts.com/series/blade-component-cookbook"
+  },
+  {
+    "title": "Browser Testing With Laravel Dusk",
+    "value": "https://laracasts.com/series/browser-testing-with-laravel-dusk"
+  },
+  {
+    "title": "Build \"ProjectFlyer\" With Me",
+    "value": "https://laracasts.com/series/build-project-flyer-with-me"
+  },
+  {
+    "title": "Build A Laravel App With TDD",
+    "value": "https://laracasts.com/series/build-a-laravel-app-with-tdd"
+  },
+  {
+    "title": "Build Larabook From Scratch",
+    "value": "https://laracasts.com/series/build-a-laravel-app-from-scratch"
+  },
+  {
+    "title": "Build Mobile Apps With React Native and Expo",
+    "value": "https://laracasts.com/series/build-mobile-apps-with-react-native-and-expo"
+  },
+  {
+    "title": "Build Modern Laravel Apps Using Inertia.js",
+    "value": "https://laracasts.com/series/build-modern-laravel-apps-using-inertia-js"
+  },
+  {
+    "title": "Build Your First App",
+    "value": "https://laracasts.com/series/build-your-first-app-in-laravel"
+  },
+  {
+    "title": "Build a Staging Server",
+    "value": "https://laracasts.com/series/build-and-configure-a-staging-server"
+  },
+  {
+    "title": "Build a Stock Tracker App",
+    "value": "https://laracasts.com/series/build-a-stock-tracker-app"
+  },
+  {
+    "title": "Build a Video Game Aggregator",
+    "value": "https://laracasts.com/series/build-a-video-game-aggregator"
+  },
+  {
+    "title": "Build a Voting App",
+    "value": "https://laracasts.com/series/build-a-voting-app"
+  },
+  {
+    "title": "Building AlpineJS",
+    "value": "https://laracasts.com/series/building-alpinejs"
+  },
+  {
+    "title": "Building Laracasts",
+    "value": "https://laracasts.com/series/building-laracasts"
+  },
+  {
+    "title": "CSS Grids for Everyone",
+    "value": "https://laracasts.com/series/css-grids-for-everyone"
+  },
+  {
+    "title": "CSS Quirks and Pitfalls",
+    "value": "https://laracasts.com/series/css-quirks-and-pitfalls"
+  },
+  {
+    "title": "Charting and You",
+    "value": "https://laracasts.com/series/charting-and-you"
+  },
+  {
+    "title": "Code Katas with PHPSpec",
+    "value": "https://laracasts.com/series/code-katas-in-php"
+  },
+  {
+    "title": "Code Katas with PHPUnit",
+    "value": "https://laracasts.com/series/code-katas-with-phpunit"
+  },
+  {
+    "title": "Code Reflections",
+    "value": "https://laracasts.com/series/code-reflections"
+  },
+  {
+    "title": "Commands and Domain Events",
+    "value": "https://laracasts.com/series/commands-and-domain-events"
+  },
+  {
+    "title": "Cypress and Laravel Integration",
+    "value": "https://laracasts.com/series/cypress-and-laravel-integration"
+  },
+  {
+    "title": "Design Patterns in PHP",
+    "value": "https://laracasts.com/series/design-patterns-in-php"
+  },
+  {
+    "title": "Developer Practice",
+    "value": "https://laracasts.com/series/development-workflow"
+  },
+  {
+    "title": "Digging In",
+    "value": "https://laracasts.com/series/digging-in"
+  },
+  {
+    "title": "Discover Symfony Components",
+    "value": "https://laracasts.com/series/discover-symfony-components"
+  },
+  {
+    "title": "Do You React?",
+    "value": "https://laracasts.com/series/do-you-react"
+  },
+  {
+    "title": "ES2015 Crash Course",
+    "value": "https://laracasts.com/series/es6-cliffsnotes"
+  },
+  {
+    "title": "Eloquent Relationships",
+    "value": "https://laracasts.com/series/eloquent-relationships"
+  },
+  {
+    "title": "Eloquent Techniques",
+    "value": "https://laracasts.com/series/eloquent-techniques"
+  },
+  {
+    "title": "Envoyer",
+    "value": "https://laracasts.com/series/envoyer"
+  },
+  {
+    "title": "Get Real With Laravel Echo",
+    "value": "https://laracasts.com/series/get-real-with-laravel-echo"
+  },
+  {
+    "title": "Git Me Some Version Control",
+    "value": "https://laracasts.com/series/git-me-some-version-control"
+  },
+  {
+    "title": "GraphQL with Laravel and Vue",
+    "value": "https://laracasts.com/series/graphql-with-laravel-and-vue"
+  },
+  {
+    "title": "Guest Spotlight",
+    "value": "https://laracasts.com/series/guest-spotlight"
+  },
+  {
+    "title": "HTML and CSS Workshop",
+    "value": "https://laracasts.com/series/html-and-css-workshop"
+  },
+  {
+    "title": "HTML5 Video and VideoJS",
+    "value": "https://laracasts.com/series/how-to-use-html5-video-and-videojs"
+  },
+  {
+    "title": "Hands On: Community Contributions",
+    "value": "https://laracasts.com/series/hands-on-community-contributions"
+  },
+  {
+    "title": "How Do I",
+    "value": "https://laracasts.com/series/how-do-i"
+  },
+  {
+    "title": "How to Accept Payments",
+    "value": "https://laracasts.com/series/how-to-accept-payments-with-stripe"
+  },
+  {
+    "title": "How to Build Command-Line Apps",
+    "value": "https://laracasts.com/series/how-to-build-command-line-apps-in-php"
+  },
+  {
+    "title": "How to Create Custom Laravel Presets",
+    "value": "https://laracasts.com/series/how-to-create-custom-presets"
+  },
+  {
+    "title": "How to Manage an Open Source Project",
+    "value": "https://laracasts.com/series/how-to-manage-an-open-source-project"
+  },
+  {
+    "title": "How to Read Code",
+    "value": "https://laracasts.com/series/how-to-read-code"
+  },
+  {
+    "title": "How to Read Code: Season 2",
+    "value": "https://laracasts.com/series/how-to-read-code-season-2"
+  },
+  {
+    "title": "Incremental APIs",
+    "value": "https://laracasts.com/series/incremental-api-development"
+  },
+  {
+    "title": "Inertia and SPA Techniques",
+    "value": "https://laracasts.com/series/inertia-and-spa-techniques"
+  },
+  {
+    "title": "Intermediate Laravel",
+    "value": "https://laracasts.com/series/intermediate-laravel"
+  },
+  {
+    "title": "Intricacies of Sending an Invoice",
+    "value": "https://laracasts.com/series/intricacies-of-sending-an-invoice"
+  },
+  {
+    "title": "Intuitive Integration Testing",
+    "value": "https://laracasts.com/series/intuitive-integration-testing"
+  },
+  {
+    "title": "JavaScript Techniques For Server-Side Applications",
+    "value": "https://laracasts.com/series/javascript-techniques-for-server-side-developers"
+  },
+  {
+    "title": "Jeffrey's Larabits",
+    "value": "https://laracasts.com/series/jeffreys-larabits"
+  },
+  {
+    "title": "Laravel 4 From Scratch",
+    "value": "https://laracasts.com/series/laravel-from-scratch"
+  },
+  {
+    "title": "Laravel 5 Alpha From Scratch",
+    "value": "https://laracasts.com/series/laravel-5-alpha-from-scratch"
+  },
+  {
+    "title": "Laravel 5 Fundamentals",
+    "value": "https://laracasts.com/series/laravel-5-fundamentals"
+  },
+  {
+    "title": "Laravel 5.2 From Scratch",
+    "value": "https://laracasts.com/series/laravel-5-from-scratch"
+  },
+  {
+    "title": "Laravel 5.4 From Scratch",
+    "value": "https://laracasts.com/series/laravel-from-scratch-2017"
+  },
+  {
+    "title": "Laravel 5.7 From Scratch",
+    "value": "https://laracasts.com/series/laravel-from-scratch-2018"
+  },
+  {
+    "title": "Laravel 6 From Scratch",
+    "value": "https://laracasts.com/series/laravel-6-from-scratch"
+  },
+  {
+    "title": "Laravel 8 From Scratch",
+    "value": "https://laracasts.com/series/laravel-8-from-scratch"
+  },
+  {
+    "title": "Laravel Authentication (Breeze, Jetstream, Fortify)",
+    "value": "https://laracasts.com/series/laravel-authentication-options"
+  },
+  {
+    "title": "Laravel Authentication Techniques",
+    "value": "https://laracasts.com/series/laravel-authentication-techniques"
+  },
+  {
+    "title": "Laravel Explained",
+    "value": "https://laracasts.com/series/laravel-explained"
+  },
+  {
+    "title": "Laravel Nova Mastery",
+    "value": "https://laracasts.com/series/laravel-nova-mastery"
+  },
+  {
+    "title": "Laravel Queue Mastery",
+    "value": "https://laracasts.com/series/laravel-queue-mastery"
+  },
+  {
+    "title": "Laravel Spark",
+    "value": "https://laracasts.com/series/laravel-spark"
+  },
+  {
+    "title": "Laravel and the Front-end",
+    "value": "https://laracasts.com/series/laravel-5-and-the-front-end"
+  },
+  {
+    "title": "Laravel, Vue and SPAs",
+    "value": "https://laracasts.com/series/laravel-vue-and-spas"
+  },
+  {
+    "title": "Learn Flexbox Through Examples",
+    "value": "https://laracasts.com/series/learn-flexbox-through-examples"
+  },
+  {
+    "title": "Learn Headless UI",
+    "value": "https://laracasts.com/series/learn-headless-ui"
+  },
+  {
+    "title": "Learn Inertia With Jeffrey",
+    "value": "https://laracasts.com/series/learn-inertia-with-jeffrey"
+  },
+  {
+    "title": "Learn Laravel Forge",
+    "value": "https://laracasts.com/series/learn-laravel-forge"
+  },
+  {
+    "title": "Learn Laravel Horizon",
+    "value": "https://laracasts.com/series/learn-laravel-horizon"
+  },
+  {
+    "title": "Learn Laravel Mix",
+    "value": "https://laracasts.com/series/learn-laravel-mix"
+  },
+  {
+    "title": "Learn Laravel Scout",
+    "value": "https://laracasts.com/series/learn-laravel-scout"
+  },
+  {
+    "title": "Learn Redis Through Examples",
+    "value": "https://laracasts.com/series/learn-laravel-and-redis-through-examples"
+  },
+  {
+    "title": "Learn Socialite",
+    "value": "https://laracasts.com/series/learn-socialite"
+  },
+  {
+    "title": "Learn Telescope",
+    "value": "https://laracasts.com/series/learn-telescope"
+  },
+  {
+    "title": "Learn Vue 2: Step By Step",
+    "value": "https://laracasts.com/series/learn-vue-2-step-by-step"
+  },
+  {
+    "title": "Learning Vue 1.0: Step By Step",
+    "value": "https://laracasts.com/series/learning-vue-step-by-step"
+  },
+  {
+    "title": "Let's Build A Forum with Laravel and TDD",
+    "value": "https://laracasts.com/series/lets-build-a-forum-with-laravel"
+  },
+  {
+    "title": "Let's Build an Offline-First Vue App",
+    "value": "https://laracasts.com/series/lets-build-an-offline-first-vue-app"
+  },
+  {
+    "title": "Livewire Basics",
+    "value": "https://laracasts.com/series/livewire-basics"
+  },
+  {
+    "title": "Long-form Refactoring Workshops",
+    "value": "https://laracasts.com/series/refactoring-workshops"
+  },
+  {
+    "title": "Modals with the TALL Stack",
+    "value": "https://laracasts.com/series/modals-with-the-tall-stack"
+  },
+  {
+    "title": "Modern CSS Workflow",
+    "value": "https://laracasts.com/series/modern-css-workflow"
+  },
+  {
+    "title": "Modern CSS for Backend Developers",
+    "value": "https://laracasts.com/series/modern-css-for-backend-developers"
+  },
+  {
+    "title": "Modern JavaScript Basics",
+    "value": "https://laracasts.com/series/modern-javascript-basics"
+  },
+  {
+    "title": "Multitenancy in Practice",
+    "value": "https://laracasts.com/series/multitenancy-in-practice"
+  },
+  {
+    "title": "MySQL Database Design ",
+    "value": "https://laracasts.com/series/mysql-database-design"
+  },
+  {
+    "title": "NuxtJS Crash Course",
+    "value": "https://laracasts.com/series/nuxtjs-crash-course"
+  },
+  {
+    "title": "Object-Oriented Bootcamp",
+    "value": "https://laracasts.com/series/object-oriented-bootcamp-in-php"
+  },
+  {
+    "title": "Object-Oriented Principles in PHP",
+    "value": "https://laracasts.com/series/object-oriented-principles-in-php"
+  },
+  {
+    "title": "Open-Closed Workshop",
+    "value": "https://laracasts.com/series/open-closed-workshop"
+  },
+  {
+    "title": "PHP 7 Up and Running",
+    "value": "https://laracasts.com/series/php7-up-and-running"
+  },
+  {
+    "title": "PHP 8 Crash Course",
+    "value": "https://laracasts.com/series/php8-crash-course"
+  },
+  {
+    "title": "PHP Bits",
+    "value": "https://laracasts.com/series/php-bits"
+  },
+  {
+    "title": "PHP Testing Jargon",
+    "value": "https://laracasts.com/series/php-testing-jargon"
+  },
+  {
+    "title": "Painless Builds With Elixir",
+    "value": "https://laracasts.com/series/painless-builds-with-laravel-elixir"
+  },
+  {
+    "title": "Playing With PHP",
+    "value": "https://laracasts.com/series/playing-with-php"
+  },
+  {
+    "title": "Practical Vue Components",
+    "value": "https://laracasts.com/series/practical-vue-components"
+  },
+  {
+    "title": "Professional PHP Workflow in Sublime Text 3",
+    "value": "https://laracasts.com/series/professional-php-workflow-in-sublime-text"
+  },
+  {
+    "title": "Programming Terms Explained",
+    "value": "https://laracasts.com/series/programming-terms-explained"
+  },
+  {
+    "title": "Pull Up a Seat: Season 1",
+    "value": "https://laracasts.com/series/pull-a-seat-season-1"
+  },
+  {
+    "title": "Queue it Up",
+    "value": "https://laracasts.com/series/queue-it-up"
+  },
+  {
+    "title": "Real-time Laravel with Socket.io",
+    "value": "https://laracasts.com/series/real-time-laravel-with-socket-io"
+  },
+  {
+    "title": "Rebuild GitHub with Tailwind CSS",
+    "value": "https://laracasts.com/series/tailwind-css-rebuilds-github"
+  },
+  {
+    "title": "Reproduce Popular Web Components",
+    "value": "https://laracasts.com/series/reproduce-popular-web-components"
+  },
+  {
+    "title": "Russian-Doll Caching in Laravel",
+    "value": "https://laracasts.com/series/russian-doll-caching-in-laravel"
+  },
+  {
+    "title": "SOLID Principles in PHP",
+    "value": "https://laracasts.com/series/solid-principles-in-php"
+  },
+  {
+    "title": "Server Management With Forge",
+    "value": "https://laracasts.com/series/server-management-with-forge"
+  },
+  {
+    "title": "Set Up a Mac for Development From Scratch",
+    "value": "https://laracasts.com/series/setup-a-mac-for-development-from-scratch"
+  },
+  {
+    "title": "Setup a Mac Dev Machine From Scratch",
+    "value": "https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch"
+  },
+  {
+    "title": "Simple Rules for Simpler Code",
+    "value": "https://laracasts.com/series/simple-rules-for-simpler-code"
+  },
+  {
+    "title": "Spam Prevention Techniques",
+    "value": "https://laracasts.com/series/spam-prevention-techniques"
+  },
+  {
+    "title": "Static Site Generators",
+    "value": "https://laracasts.com/series/static-site-generators"
+  },
+  {
+    "title": "Sublime Text Mastery",
+    "value": "https://laracasts.com/series/sublime-text-mastery"
+  },
+  {
+    "title": "Testing Jargon",
+    "value": "https://laracasts.com/series/testing-jargon"
+  },
+  {
+    "title": "Testing Laravel",
+    "value": "https://laracasts.com/series/phpunit-testing-in-laravel"
+  },
+  {
+    "title": "Testing Vue",
+    "value": "https://laracasts.com/series/testing-vue"
+  },
+  {
+    "title": "The Docker Tutorial",
+    "value": "https://laracasts.com/series/the-docker-tutorial"
+  },
+  {
+    "title": "The Lifecycle of a New Feature",
+    "value": "https://laracasts.com/series/the-lifecycle-of-a-new-feature"
+  },
+  {
+    "title": "The PHP Practitioner",
+    "value": "https://laracasts.com/series/php-for-beginners"
+  },
+  {
+    "title": "The Vast World of Vue.js 0.12",
+    "value": "https://laracasts.com/series/learning-vuejs"
+  },
+  {
+    "title": "Three-Minute Tips",
+    "value": "https://laracasts.com/series/three-minute-tips"
+  },
+  {
+    "title": "Understand Regular Expressions",
+    "value": "https://laracasts.com/series/understanding-regular-expressions"
+  },
+  {
+    "title": "Unlocking Badges Workshop",
+    "value": "https://laracasts.com/series/unlocking-badges-workshop"
+  },
+  {
+    "title": "Vim Mastery",
+    "value": "https://laracasts.com/series/vim-mastery"
+  },
+  {
+    "title": "Visual Studio Code for PHP Developers",
+    "value": "https://laracasts.com/series/visual-studio-code-for-php-developers"
+  },
+  {
+    "title": "Webpack for Everyone",
+    "value": "https://laracasts.com/series/webpack-for-everyone"
+  },
+  {
+    "title": "What's New in Laravel 5.0 (Alpha)",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-5"
+  },
+  {
+    "title": "What's New in Laravel 5.1",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-5-1"
+  },
+  {
+    "title": "What's New in Laravel 5.2",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-5-2"
+  },
+  {
+    "title": "What's New in Laravel 5.3",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-5-3"
+  },
+  {
+    "title": "What's New in Laravel 5.4",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-5-4"
+  },
+  {
+    "title": "What's New in Laravel 5.5",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-5-5"
+  },
+  {
+    "title": "What's New in Laravel 5.6",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-5-6"
+  },
+  {
+    "title": "What's New in Laravel 5.7",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-5-7"
+  },
+  {
+    "title": "What's New in Laravel 5.8",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-5-8"
+  },
+  {
+    "title": "What's New in Laravel 6",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-6"
+  },
+  {
+    "title": "What's New in Laravel 7",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-7"
+  },
+  {
+    "title": "What's New in Laravel 8",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-8"
+  },
+  {
+    "title": "What's New in Laravel 9",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-9"
+  },
+  {
+    "title": "What's New in PHP 7.1",
+    "value": "https://laracasts.com/series/whats-new-in-php-7-1"
+  },
+  {
+    "title": "What's New in PHP 7.4",
+    "value": "https://laracasts.com/series/whats-new-in-php-74"
+  },
+  {
+    "title": "What's New in Vue 3",
+    "value": "https://laracasts.com/series/whats-new-in-vue-3"
+  },
+  {
+    "title": "Whatcha Working On",
+    "value": "https://laracasts.com/series/whatcha-working-on"
+  },
+  {
+    "title": "Whip Monstrous Code Into Shape",
+    "value": "https://laracasts.com/series/whip-monstrous-code-into-shape"
+  },
+  {
+    "title": "Write a Composer Package With Me",
+    "value": "https://laracasts.com/series/write-a-composer-package-with-me"
+  }
+]

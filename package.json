@@ -27,6 +27,8 @@
   },
   "license": "MIT",
   "dependencies": {
+    "@byungi/p-delay": "^0.2.0",
+    "@byungi/p-retry": "^0.2.2",
     "axios": "^0.24.0",
     "bluebird": "^3.7.2",
     "chalk": "^5.0.0",
@@ -47,7 +49,9 @@
     "requestretry": "^6.0.0",
     "sanitize-filename": "^1.6.3",
     "tough-cookie": "^4.0.0",
-    "url-regex-safe": "^3.0.0"
+    "url-regex-safe": "^3.0.0",
+    "youtube-dl-wrap": "^2.1.1",
+    "ytdl-run": "^0.2.1"
   },
   "devDependencies": {
     "ava": "^3.15.0",
