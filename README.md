@@ -1,4 +1,5 @@
-# Scrape videos (courses) from Laracasts.com for members
+# Scrape videos (courses) and download from Laracasts.com for pro members
+
 [![npm](https://badgen.net/npm/v/laradown)](https://www.npmjs.com/package/laradown)
 
 ## Install
