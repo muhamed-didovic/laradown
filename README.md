@@ -1,4 +1,4 @@
-# Scrape videos (courses) and download from Laracasts.com for pro members
+# Downloader and scraper for Laracasts.com for pro members
 
 [![npm](https://badgen.net/npm/v/laradown)](https://www.npmjs.com/package/laradown)
 
