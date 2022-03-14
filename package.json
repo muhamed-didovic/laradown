@@ -1,6 +1,6 @@
 {
   "name": "laradown",
-  "version": "0.5.3",
+  "version": "0.6.1",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -17,6 +17,7 @@
   },
   "keywords": [
     "downloader",
+    "laracasts-downloader",
     "scraper",
     "laracasts"
   ],
@@ -30,9 +31,9 @@
     "@byungi/p-delay": "^0.2.0",
     "@byungi/p-retry": "^0.2.2",
     "@supercharge/promise-pool": "^2.1.0",
-    "axios": "^0.26.0",
+    "axios": "^0.26.1",
     "bluebird": "^3.7.2",
-    "chalk": "^5.0.0",
+    "chalk": "^5.0.1",
     "cheerio": "^1.0.0-rc.10",
     "dreidels": "^0.5.2",
     "fs-extra": "^10.0.1",
@@ -46,7 +47,7 @@
     "remote-file-size": "^3.0.5",
     "request": "^2.88.2",
     "request-progress": "^3.0.0",
-    "requestretry": "^6.0.0",
+    "requestretry": "^7.0.2",
     "sanitize-filename": "^1.6.3",
     "tough-cookie": "^4.0.0",
     "url-regex-safe": "^3.0.0",
