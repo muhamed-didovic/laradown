@@ -1,6 +1,6 @@
 {
   "name": "laradown",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "",
   "main": "index.js",
   "directories": {
@@ -16,6 +16,7 @@
     "test": "ava"
   },
   "keywords": [
+    "download",
     "downloader",
     "laracasts-downloader",
     "scraper",
