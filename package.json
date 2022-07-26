@@ -1,6 +1,6 @@
 {
   "name": "laradown",
-  "version": "0.9.9",
+  "version": "0.9.10",
   "description": "Downloader and scraper for Laracasts.com for pro members",
   "main": "index.js",
   "directories": {
