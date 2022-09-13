@@ -164,6 +164,10 @@
     "value": "https://laracasts.com/series/es6-cliffsnotes"
   },
   {
+    "title": "Eloquent Performance Patterns",
+    "value": "https://laracasts.com/series/eloquent-performance-patterns"
+  },
+  {
     "title": "Eloquent Relationships",
     "value": "https://laracasts.com/series/eloquent-relationships"
   },
@@ -298,6 +302,10 @@
   {
     "title": "Laravel Authentication Techniques",
     "value": "https://laracasts.com/series/laravel-authentication-techniques"
+  },
+  {
+    "title": "Laravel Cookbook",
+    "value": "https://laracasts.com/series/laravel-cookbook"
   },
   {
     "title": "Laravel Explained",
@@ -452,12 +460,20 @@
     "value": "https://laracasts.com/series/php-bits"
   },
   {
+    "title": "PHP For Beginners",
+    "value": "https://laracasts.com/series/php-for-beginners-2023-edition"
+  },
+  {
     "title": "PHP Testing Jargon",
     "value": "https://laracasts.com/series/php-testing-jargon"
   },
   {
     "title": "Painless Builds With Elixir",
     "value": "https://laracasts.com/series/painless-builds-with-laravel-elixir"
+  },
+  {
+    "title": "Pest From Scratch",
+    "value": "https://laracasts.com/series/pest-from-scratch"
   },
   {
     "title": "Playing With PHP",
