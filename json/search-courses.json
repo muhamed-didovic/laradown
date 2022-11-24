@@ -372,6 +372,10 @@
     "value": "https://laracasts.com/series/learn-socialite"
   },
   {
+    "title": "Learn Statamic with Jack",
+    "value": "https://laracasts.com/series/learn-statamic-with-jack"
+  },
+  {
     "title": "Learn Telescope",
     "value": "https://laracasts.com/series/learn-telescope"
   },
@@ -422,6 +426,10 @@
   {
     "title": "Modern JavaScript Basics",
     "value": "https://laracasts.com/series/modern-javascript-basics"
+  },
+  {
+    "title": "Mohamed's Larabits",
+    "value": "https://laracasts.com/series/mohameds-larabits"
   },
   {
     "title": "Multitenancy in Practice",
