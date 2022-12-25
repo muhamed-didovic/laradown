@@ -440,6 +440,10 @@
     "value": "https://laracasts.com/series/mysql-database-design"
   },
   {
+    "title": "Neovim as a PHP and JavaScript IDE",
+    "value": "https://laracasts.com/series/neovim-as-a-php-ide"
+  },
+  {
     "title": "NuxtJS Crash Course",
     "value": "https://laracasts.com/series/nuxtjs-crash-course"
   },
@@ -534,6 +538,10 @@
   {
     "title": "Server Management With Forge",
     "value": "https://laracasts.com/series/server-management-with-forge"
+  },
+  {
+    "title": "Serverless Laravel",
+    "value": "https://laracasts.com/series/serverless-laravel"
   },
   {
     "title": "Set Up a Mac for Development From Scratch",
