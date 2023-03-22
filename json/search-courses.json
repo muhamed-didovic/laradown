@@ -4,6 +4,10 @@
     "value": "https://laracasts.com/series/ten-techniques-for-cleaner-code"
   },
   {
+    "title": "AWS Fundamentals",
+    "value": "https://laracasts.com/series/aws-fundamentals"
+  },
+  {
     "title": "Advanced Eloquent",
     "value": "https://laracasts.com/series/advanced-eloquent"
   },
@@ -22,6 +26,10 @@
   {
     "title": "Andrew's Larabits",
     "value": "https://laracasts.com/series/andrews-larabits"
+  },
+  {
+    "title": "Automated Laravel Upgrades",
+    "value": "https://laracasts.com/series/automated-laravel-upgrades"
   },
   {
     "title": "Be Awesome in PHPStorm",
@@ -626,6 +634,10 @@
   {
     "title": "Webpack for Everyone",
     "value": "https://laracasts.com/series/webpack-for-everyone"
+  },
+  {
+    "title": "What's New in Laravel 10",
+    "value": "https://laracasts.com/series/whats-new-in-laravel-10"
   },
   {
     "title": "What's New in Laravel 5.0 (Alpha)",
