@@ -108,6 +108,10 @@
     "value": "https://laracasts.com/series/building-laracasts"
   },
   {
+    "title": "CSS Flexbox Simplified",
+    "value": "https://laracasts.com/series/css-flexbox-simplified"
+  },
+  {
     "title": "CSS Grids Simplified",
     "value": "https://laracasts.com/series/css-grids-simplified"
   },
@@ -424,6 +428,10 @@
     "value": "https://laracasts.com/series/refactoring-workshops"
   },
   {
+    "title": "Luke's Larabits",
+    "value": "https://laracasts.com/series/lukes-larabits"
+  },
+  {
     "title": "Modals with the TALL Stack",
     "value": "https://laracasts.com/series/modals-with-the-tall-stack"
   },
@@ -554,6 +562,10 @@
   {
     "title": "Serverless Laravel",
     "value": "https://laracasts.com/series/serverless-laravel"
+  },
+  {
+    "title": "Servers for Laravel",
+    "value": "https://laracasts.com/series/servers-for-laravel"
   },
   {
     "title": "Set Up a Mac for Development From Scratch",

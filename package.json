@@ -1,6 +1,6 @@
 {
   "name": "laradown",
-  "version": "0.11.3",
+  "version": "0.11.4",
   "description": "Downloader and scraper for Laracasts.com for pro members",
   "main": "index.js",
   "directories": {
@@ -32,13 +32,13 @@
   "dependencies": {
     "@byungi/p-delay": "^0.2.0",
     "@byungi/p-retry": "^0.2.2",
-    "@supercharge/promise-pool": "^2.3.2",
-    "axios": "^1.2.2",
+    "@supercharge/promise-pool": "^2.4.0",
+    "axios": "^1.4.0",
     "bluebird": "^3.7.2",
     "chalk": "^5.2.0",
     "cheerio": "^1.0.0-rc.12",
     "dreidels": "^0.5.2",
-    "fs-extra": "^11.1.0",
+    "fs-extra": "^11.1.1",
     "fuse.js": "^6.6.2",
     "is-valid-path": "^0.1.1",
     "jar-got": "^0.1.0",
