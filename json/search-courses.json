@@ -148,6 +148,10 @@
     "value": "https://laracasts.com/series/cypress-and-laravel-integration"
   },
   {
+    "title": "Demystify Laravel's Magic",
+    "value": "https://laracasts.com/series/demystifying-laravel-magic"
+  },
+  {
     "title": "Design Patterns in PHP",
     "value": "https://laracasts.com/series/design-patterns-in-php"
   },
@@ -256,6 +260,10 @@
     "value": "https://laracasts.com/series/inertia-and-spa-techniques"
   },
   {
+    "title": "Infinite Scrolling in Inertia",
+    "value": "https://laracasts.com/series/infinite-scrolling-in-inertia"
+  },
+  {
     "title": "Intermediate Laravel",
     "value": "https://laracasts.com/series/intermediate-laravel"
   },
@@ -270,6 +278,10 @@
   {
     "title": "JavaScript Techniques For Server-Side Applications",
     "value": "https://laracasts.com/series/javascript-techniques-for-server-side-developers"
+  },
+  {
+    "title": "JavaScript: The First Steps",
+    "value": "https://laracasts.com/series/javascript-the-first-steps"
   },
   {
     "title": "Jeffrey's Larabits",
