@@ -68,6 +68,10 @@
     "value": "https://laracasts.com/series/build-a-laravel-app-with-tdd"
   },
   {
+    "title": "Build Advanced Components for Filament",
+    "value": "https://laracasts.com/series/build-advanced-components-for-filament"
+  },
+  {
     "title": "Build Larabook From Scratch",
     "value": "https://laracasts.com/series/build-a-laravel-app-from-scratch"
   },
@@ -78,6 +82,10 @@
   {
     "title": "Build Modern Laravel Apps Using Inertia.js",
     "value": "https://laracasts.com/series/build-modern-laravel-apps-using-inertia-js"
+  },
+  {
+    "title": "Build Shopify Apps With Laravel",
+    "value": "https://laracasts.com/series/build-shopify-apps-with-laravel"
   },
   {
     "title": "Build Your First App",
@@ -337,7 +345,11 @@
   },
   {
     "title": "Laravel Nova Mastery",
-    "value": "https://laracasts.com/series/laravel-nova-mastery"
+    "value": "https://laracasts.com/series/laravel-nova-mastery-2023-edition"
+  },
+  {
+    "title": "Laravel Octane",
+    "value": "https://laracasts.com/series/laravel-octane"
   },
   {
     "title": "Laravel Queue Mastery",
@@ -516,8 +528,16 @@
     "value": "https://laracasts.com/series/painless-builds-with-laravel-elixir"
   },
   {
+    "title": "Pest Driven Laravel",
+    "value": "https://laracasts.com/series/pest-driven-laravel"
+  },
+  {
     "title": "Pest From Scratch",
     "value": "https://laracasts.com/series/pest-from-scratch"
+  },
+  {
+    "title": "PhpStorm for Laravel Developers",
+    "value": "https://laracasts.com/series/phpstorm-for-laravel-developers"
   },
   {
     "title": "Playing With PHP",
