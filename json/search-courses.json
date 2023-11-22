@@ -92,6 +92,10 @@
     "value": "https://laracasts.com/series/build-your-first-app-in-laravel"
   },
   {
+    "title": "Build a Forum With Laravel\n",
+    "value": "https://laracasts.com/series/build-a-forum-with-laravel"
+  },
+  {
     "title": "Build a Staging Server",
     "value": "https://laracasts.com/series/build-and-configure-a-staging-server"
   },
@@ -146,6 +150,10 @@
   {
     "title": "Code Reflections",
     "value": "https://laracasts.com/series/code-reflections"
+  },
+  {
+    "title": "Code-Breaking Workshop",
+    "value": "https://laracasts.com/series/code-breaking-workshop"
   },
   {
     "title": "Commands and Domain Events",
@@ -448,6 +456,10 @@
     "value": "https://laracasts.com/series/livewire-uncovered"
   },
   {
+    "title": "Load Balance a Laravel App\r\n",
+    "value": "https://laracasts.com/series/load-balance-a-laravel-app"
+  },
+  {
     "title": "Long-form Refactoring Workshops",
     "value": "https://laracasts.com/series/refactoring-workshops"
   },
@@ -564,6 +576,10 @@
     "value": "https://laracasts.com/series/queue-it-up"
   },
   {
+    "title": "Rapid Laravel Apps With Filament",
+    "value": "https://laracasts.com/series/rapid-laravel-development-with-filament"
+  },
+  {
     "title": "React - Beyond the Basics",
     "value": "https://laracasts.com/series/react-beyond-the-basics"
   },
@@ -616,6 +632,10 @@
     "value": "https://laracasts.com/series/spam-prevention-techniques"
   },
   {
+    "title": "Static Analysis with PHPStan\n",
+    "value": "https://laracasts.com/series/static-analysis-with-phpstan"
+  },
+  {
     "title": "Static Site Generators",
     "value": "https://laracasts.com/series/static-site-generators"
   },
@@ -666,6 +686,10 @@
   {
     "title": "Unlocking Badges Workshop",
     "value": "https://laracasts.com/series/unlocking-badges-workshop"
+  },
+  {
+    "title": "Valet Uncovered\n",
+    "value": "https://laracasts.com/series/valet-uncovered"
   },
   {
     "title": "Vim Mastery",
