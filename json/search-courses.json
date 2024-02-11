@@ -92,7 +92,7 @@
     "value": "https://laracasts.com/series/build-your-first-app-in-laravel"
   },
   {
-    "title": "Build a Forum With Laravel\n",
+    "title": "Build a Forum With Laravel",
     "value": "https://laracasts.com/series/build-a-forum-with-laravel"
   },
   {
@@ -212,6 +212,10 @@
     "value": "https://laracasts.com/series/envoyer"
   },
   {
+    "title": "Fun With OpenAI and Laravel",
+    "value": "https://laracasts.com/series/fun-with-openai-and-laravel"
+  },
+  {
     "title": "Get Real With Laravel Echo",
     "value": "https://laracasts.com/series/get-real-with-laravel-echo"
   },
@@ -302,6 +306,10 @@
   {
     "title": "Jeffrey's Larabits",
     "value": "https://laracasts.com/series/jeffreys-larabits"
+  },
+  {
+    "title": "Jeremy's Larabits",
+    "value": "https://laracasts.com/series/jeremys-larabits"
   },
   {
     "title": "Laravel 4 From Scratch",
@@ -456,7 +464,7 @@
     "value": "https://laracasts.com/series/livewire-uncovered"
   },
   {
-    "title": "Load Balance a Laravel App\r\n",
+    "title": "Load Balance a Laravel App",
     "value": "https://laracasts.com/series/load-balance-a-laravel-app"
   },
   {
@@ -482,6 +490,10 @@
   {
     "title": "Modern JavaScript Basics",
     "value": "https://laracasts.com/series/modern-javascript-basics"
+  },
+  {
+    "title": "Modular Laravel",
+    "value": "https://laracasts.com/series/modular-laravel"
   },
   {
     "title": "Mohamed's Larabits",
@@ -628,11 +640,15 @@
     "value": "https://laracasts.com/series/simple-rules-for-simpler-code"
   },
   {
+    "title": "Small Laravel Packages, Big Impact",
+    "value": "https://laracasts.com/series/small-laravel-packages-big-impact"
+  },
+  {
     "title": "Spam Prevention Techniques",
     "value": "https://laracasts.com/series/spam-prevention-techniques"
   },
   {
-    "title": "Static Analysis with PHPStan\n",
+    "title": "Static Analysis with PHPStan",
     "value": "https://laracasts.com/series/static-analysis-with-phpstan"
   },
   {
@@ -688,7 +704,7 @@
     "value": "https://laracasts.com/series/unlocking-badges-workshop"
   },
   {
-    "title": "Valet Uncovered\n",
+    "title": "Valet Uncovered",
     "value": "https://laracasts.com/series/valet-uncovered"
   },
   {
